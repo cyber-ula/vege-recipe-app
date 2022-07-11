@@ -1,0 +1,25 @@
+.paper{
+    padding: 20px;
+    margin-left:20px;
+}
+
+
+
+.typo{
+   
+    &__title{
+        padding:20px;
+    }
+
+   
+}
+
+.btn{
+    padding: 10px;
+    margin: 10px;
+    background-color: darkmagenta;
+}
+
+.btn-primary{
+    background-color: darkblue;
+}

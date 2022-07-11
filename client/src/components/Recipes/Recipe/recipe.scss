@@ -1,0 +1,45 @@
+.overlay {
+    position: absolute;
+    top: 40px;
+    left: 40px;
+    color: rgb(204, 194, 194);
+  }
+.overlay2 {
+    position: absolute;
+    top: 40px;
+    right: 40px;
+    color: white;
+  }
+
+  
+
+  .media{
+    height: 50px;
+    padding-top: 56.7%;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: darken;
+  }
+
+  .card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border-radius: 15px;
+    height: 100%;
+    width:100%;
+    position: relative;
+    padding:10px;
+  }
+
+  
+
+  .cardActions {
+    padding: 0 16px 8px 16px;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .cardAction {
+    display: block;
+    text-align: initial;
+  }
